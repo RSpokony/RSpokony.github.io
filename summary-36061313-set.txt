@@ -1,0 +1,141 @@
+1: Lopatto D, Rosenwald AG, Burgess RC, Silver Key C, Van Stry M, Wawersik M,
+DiAngelo JR, Hark AT, Skerritt M, Allen AK, Alvarez C, Anderson S, Arrigo C,
+Arsham A, Barnard D, Bedard JEJ, Bose I, Braverman JM, Burg MG, Croonquist P, Du
+C, Dubowsky S, Eisler H, Escobar MA, Foulk M, Giarla T, Glaser RL, Goodman AL,
+Gosser Y, Haberman A, Hauser C, Hays S, Howell CE, Jemc J, Jones CJ, Kadlec L,
+Kagey JD, Keller KL, Kennell J, Kleinschmit AJ, Kleinschmit M, Kokan NP, Kopp
+OR, Laakso MM, Leatherman J, Long LJ, Manier M, Martinez-Cruzado JC, Matos LF,
+McClellan AJ, McNeil G, Merkhofer E, Mingo V, Mistry H, Mitchell E, Mortimer NT,
+Myka JL, Nagengast A, Overvoorde P, Paetkau D, Paliulis L, Parrish S, Toering
+Peters S, Preuss ML, Price JV, Pullen NA, Reinke C, Revie D, Robic S, Roecklein-
+Canfield JA, Rubin MR, Sadikot T, Sanford JS, Santisteban M, Saville K,
+Schroeder S, Shaffer CD, Sharif KA, Sklensky DE, Small C, Smith S, Spokony R,
+Sreenivasan A, Stamm J, Sterne-Marr R, Teeter KC, Thackeray J, Thompson JS,
+Velazquez-Ulloa N, Wolfe C, Youngblom J, Yowler B, Zhou L, Brennan J, Buhler J,
+Leung W, Elgin SCR, Reed LK. Student Attitudes Contribute to the Effectiveness
+of a Genomics CURE. J Microbiol Biol Educ. 2022 May 16;23(2):e00208-21. doi:
+10.1128/jmbe.00208-21. PMID: 36061313; PMCID: PMC9429879.
+
+2: Lopatto D, Rosenwald AG, DiAngelo JR, Hark AT, Skerritt M, Wawersik M, Allen
+AK, Alvarez C, Anderson S, Arrigo C, Arsham A, Barnard D, Bazinet C, Bedard JEJ,
+Bose I, Braverman JM, Burg MG, Burgess RC, Croonquist P, Du C, Dubowsky S,
+Eisler H, Escobar MA, Foulk M, Furbee E, Giarla T, Glaser RL, Goodman AL, Gosser
+Y, Haberman A, Hauser C, Hays S, Howell CE, Jemc J, Johnson ML, Jones CJ, Kadlec
+L, Kagey JD, Keller KL, Kennell J, Key SCS, Kleinschmit AJ, Kleinschmit M, Kokan
+NP, Kopp OR, Laakso MM, Leatherman J, Long LJ, Manier M, Martinez-Cruzado JC,
+Matos LF, McClellan AJ, McNeil G, Merkhofer E, Mingo V, Mistry H, Mitchell E,
+Mortimer NT, Mukhopadhyay D, Myka JL, Nagengast A, Overvoorde P, Paetkau D,
+Paliulis L, Parrish S, Preuss ML, Price JV, Pullen NA, Reinke C, Revie D, Robic
+S, Roecklein-Canfield JA, Rubin MR, Sadikot T, Sanford JS, Santisteban M,
+Saville K, Schroeder S, Shaffer CD, Sharif KA, Sklensky DE, Small C, Smith M,
+Smith S, Spokony R, Sreenivasan A, Stamm J, Sterne-Marr R, Teeter KC, Thackeray
+J, Thompson JS, Peters ST, Van Stry M, Velazquez-Ulloa N, Wolfe C, Youngblom J,
+Yowler B, Zhou L, Brennan J, Buhler J, Leung W, Reed LK, Elgin SCR. Facilitating
+Growth through Frustration: Using Genomics Research in a Course-Based
+Undergraduate Research Experience. J Microbiol Biol Educ. 2020 Feb
+28;21(1):21.1.6. doi: 10.1128/jmbe.v21i1.2005. PMID: 32148609; PMCID:
+PMC7048401.
+
+3: Yalgin C, Ebrahimi S, Delandre C, Yoong LF, Akimoto S, Tran H, Amikura R,
+Spokony R, Torben-Nielsen B, White KP, Moore AW. Centrosomin represses dendrite
+branching by orienting microtubule nucleation. Nat Neurosci. 2015
+Oct;18(10):1437-45. doi: 10.1038/nn.4099. Epub 2015 Aug 31. PMID: 26322925.
+
+4: Chanut-Delalande H, Hashimoto Y, Pelissier-Monier A, Spokony R, Dib A, Kondo
+T, Bohère J, Niimi K, Latapie Y, Inagaki S, Dubois L, Valenti P, Polesello C,
+Kobayashi S, Moussian B, White KP, Plaza S, Kageyama Y, Payre F. Pri peptides
+are mediators of ecdysone for the temporal control of development. Nat Cell
+Biol. 2014 Nov;16(11):1035-44. doi: 10.1038/ncb3052. Epub 2014 Oct 26. PMID:
+25344753.
+
+5: Boyle AP, Araya CL, Brdlik C, Cayting P, Cheng C, Cheng Y, Gardner K, Hillier
+LW, Janette J, Jiang L, Kasper D, Kawli T, Kheradpour P, Kundaje A, Li JJ, Ma L,
+Niu W, Rehm EJ, Rozowsky J, Slattery M, Spokony R, Terrell R, Vafeados D, Wang
+D, Weisdepp P, Wu YC, Xie D, Yan KK, Feingold EA, Good PJ, Pazin MJ, Huang H,
+Bickel PJ, Brenner SE, Reinke V, Waterston RH, Gerstein M, White KP, Kellis M,
+Snyder M. Comparative analysis of regulatory information and circuits across
+distant species. Nature. 2014 Aug 28;512(7515):453-6. doi: 10.1038/nature13668.
+PMID: 25164757; PMCID: PMC4336544.
+
+6: Slattery M, Ma L, Spokony RF, Arthur RK, Kheradpour P, Kundaje A, Nègre N,
+Crofts A, Ptashkin R, Zieba J, Ostapenko A, Suchy S, Victorsen A, Jameel N,
+Grundstad AJ, Gao W, Moran JR, Rehm EJ, Grossman RL, Kellis M, White KP. Diverse
+patterns of genomic targeting by transcriptional regulators in Drosophila
+melanogaster. Genome Res. 2014 Jul;24(7):1224-35. doi: 10.1101/gr.168807.113.
+PMID: 24985916; PMCID: PMC4079976.
+
+7: Arthur RK, Ma L, Slattery M, Spokony RF, Ostapenko A, Nègre N, White KP.
+Evolution of H3K27me3-marked chromatin is linked to gene expression evolution
+and to patterns of gene duplication and diversification. Genome Res. 2014
+Jul;24(7):1115-24. doi: 10.1101/gr.162008.113. PMID: 24985914; PMCID:
+PMC4079967.
+
+8: Greer C, Lee M, Westerhof M, Milholland B, Spokony R, Vijg J, Secombe J. Myc-
+dependent genome instability and lifespan in Drosophila. PLoS One. 2013 Sep
+6;8(9):e74641. doi: 10.1371/journal.pone.0074641. PMID: 24040302; PMCID:
+PMC3765364.
+
+9: Menoret D, Santolini M, Fernandes I, Spokony R, Zanet J, Gonzalez I, Latapie
+Y, Ferrer P, Rouault H, White KP, Besse P, Hakim V, Aerts S, Payre F, Plaza S.
+Genome-wide analyses of Shavenbaby target genes reveals distinct features of
+enhancer organization. Genome Biol. 2013 Aug 23;14(8):R86. doi:
+10.1186/gb-2013-14-8-r86. PMID: 23972280; PMCID: PMC4053989.
+
+10: Jungreis I, Lin MF, Spokony R, Chan CS, Negre N, Victorsen A, White KP,
+Kellis M. Evidence of abundant stop codon readthrough in Drosophila and other
+metazoa. Genome Res. 2011 Dec;21(12):2096-113. doi: 10.1101/gr.119974.110. Epub
+2011 Oct 12. PMID: 21994247; PMCID: PMC3227100.
+
+11: Nègre N, Brown CD, Ma L, Bristow CA, Miller SW, Wagner U, Kheradpour P,
+Eaton ML, Loriaux P, Sealfon R, Li Z, Ishii H, Spokony RF, Chen J, Hwang L,
+Cheng C, Auburn RP, Davis MB, Domanus M, Shah PK, Morrison CA, Zieba J, Suchy S,
+Senderowicz L, Victorsen A, Bild NA, Grundstad AJ, Hanley D, MacAlpine DM,
+Mannervik M, Venken K, Bellen H, White R, Gerstein M, Russell S, Grossman RL,
+Ren B, Posakony JW, Kellis M, White KP. A cis-regulatory map of the Drosophila
+genome. Nature. 2011 Mar 24;471(7339):527-31. doi: 10.1038/nature09990. PMID:
+21430782; PMCID: PMC3179250.
+
+12: modENCODE Consortium; Roy S, Ernst J, Kharchenko PV, Kheradpour P, Negre N,
+Eaton ML, Landolin JM, Bristow CA, Ma L, Lin MF, Washietl S, Arshinoff BI, Ay F,
+Meyer PE, Robine N, Washington NL, Di Stefano L, Berezikov E, Brown CD, Candeias
+R, Carlson JW, Carr A, Jungreis I, Marbach D, Sealfon R, Tolstorukov MY, Will S,
+Alekseyenko AA, Artieri C, Booth BW, Brooks AN, Dai Q, Davis CA, Duff MO, Feng
+X, Gorchakov AA, Gu T, Henikoff JG, Kapranov P, Li R, MacAlpine HK, Malone J,
+Minoda A, Nordman J, Okamura K, Perry M, Powell SK, Riddle NC, Sakai A,
+Samsonova A, Sandler JE, Schwartz YB, Sher N, Spokony R, Sturgill D, van Baren
+M, Wan KH, Yang L, Yu C, Feingold E, Good P, Guyer M, Lowdon R, Ahmad K, Andrews
+J, Berger B, Brenner SE, Brent MR, Cherbas L, Elgin SC, Gingeras TR, Grossman R,
+Hoskins RA, Kaufman TC, Kent W, Kuroda MI, Orr-Weaver T, Perrimon N, Pirrotta V,
+Posakony JW, Ren B, Russell S, Cherbas P, Graveley BR, Lewis S, Micklem G,
+Oliver B, Park PJ, Celniker SE, Henikoff S, Karpen GH, Lai EC, MacAlpine DM,
+Stein LD, White KP, Kellis M. Identification of functional elements and
+regulatory circuits by Drosophila modENCODE. Science. 2010 Dec
+24;330(6012):1787-97. doi: 10.1126/science.1198374. Epub 2010 Dec 22. PMID:
+21177974; PMCID: PMC3192495.
+
+13: Spokony RF, Restifo LL. Broad Complex isoforms have unique distributions
+during central nervous system metamorphosis in Drosophila melanogaster. J Comp
+Neurol. 2009 Nov 1;517(1):15-36. doi: 10.1002/cne.22119. PMID: 19711379.
+
+14: Venken KJ, Carlson JW, Schulze KL, Pan H, He Y, Spokony R, Wan KH, Koriabine
+M, de Jong PJ, White KP, Bellen HJ, Hoskins RA. Versatile P[acman] BAC libraries
+for transgenesis studies in Drosophila melanogaster. Nat Methods. 2009
+Jun;6(6):431-4. doi: 10.1038/nmeth.1331. PMID: 19465919; PMCID: PMC2784134.
+
+15: Spokony RF, Restifo LL. Anciently duplicated Broad Complex exons have
+distinct temporal functions during tissue morphogenesis. Dev Genes Evol. 2007
+Jul;217(7):499-513. doi: 10.1007/s00427-007-0159-y. Epub 2007 May 26. PMID:
+17530286.
+
+16: Spokony RF, Aoki Y, Saint-Germain N, Magner-Fink E, Saint-Jeannet JP. The
+transcription factor Sox9 is required for cranial neural crest development in
+Xenopus. Development. 2002 Jan;129(2):421-32. doi: 10.1242/dev.129.2.421. PMID:
+11807034.
+
+17: Tamai K, Semenov M, Kato Y, Spokony R, Liu C, Katsuyama Y, Hess F, Saint-
+Jeannet JP, He X. LDL-receptor-related proteins in Wnt signal transduction.
+Nature. 2000 Sep 28;407(6803):530-5. doi: 10.1038/35035117. PMID: 11029007.
+
+18: Spokony R, Saint-Jeannet JP. Xenopus FK 506-binding protein, a novel
+immunophilin expressed during early development. Mech Dev. 2000
+Jun;94(1-2):205-8. doi: 10.1016/s0925-4773(00)00315-4. PMID: 10842073.
