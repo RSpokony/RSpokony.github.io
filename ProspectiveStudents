@@ -1,0 +1,173 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Website for Spokony Lab, Baruch College, CUNY" />
+	<meta name="keywords" content="metamorphosis, Drosophila, juvenile hormone, ecdysone" />
+	<meta name="author" content="Rebecca Spokony" />
+	<link rel="stylesheet" type="text/css" href="variant-duo.css" title="Not Sure What goes here" media="screen,projection" />
+	<title>Spokony Lab</title>
+</head>
+
+<body>
+<div id="wrap">
+	<h3><a href="index.html">Spokony Lab</a></h3>
+	<p class="slogan">   </p></p>
+		
+	<div id="menu">
+		<p class="menulinks">
+		<strong class="hide">Main menu:</strong>
+		<a class="menulink active" href="index.html">Home</a><span class="hide"> | </span>
+		<a class="menulink" href="People.html">People</a><span class="hide"> | </span>
+		<a class="menulink" href="index.html">Positions</a><span class="hide"> | </span>
+		<a class="menulink" href="Publications.html">Publications</a><span class="hide"> | </span>
+		<a class="menulink" href="DGRP.html">Variation in Methoprene Sensitivity Project</a><span class="hide"> | </span>
+		<a class="menulink" href="Contact.html">Contact</a>
+	</p>
+	</div>
+	
+	<img class="feature" src="./images/tumorvariation.jpg" width="980" height="157" alt="sample image" />
+	
+	<div id="content">
+		
+			<h3>Rebecca Spokony PhD, Associate Professor</h3>
+			<p> 
+      </p>
+      
+      <h2>Undergraduate Research Assistants</h2>
+   
+   		<h3>Said Yashaev</h3>
+   		<img src="./images/Yashaev_IMG_6897.jpeg" width="300" height="400" />
+
+
+</p>
+</p>
+
+
+      <h2>Lab Alumni</h2>
+  </p>   
+	    <h3>Givenchy Ayisi-Boahene</h3>
+<p>
+  
+      <h3>Raquel Calero</h3>
+      <img src="./images/Raquel.jpg" width="256" height="144" /> 
+<p>
+
+</p>
+	<h3>Lady Cardenas</h3>
+	<img src="./images/Lady.jpg" width="263" height="148" />
+<p>
+
+</p>      
+      <h3>Shivani Daryani</h3>
+<p>
+
+</p>
+  <h3>Audrey Guarino</h3>
+<p>
+      
+</p>
+  <h3>Harmeet Kaur</h3>   
+  <img src="./images/Harmeet.jpeg" width="124" height="165" />
+<p>
+
+</p>
+  <h3>Morgan Magee</h3>   
+  <img src="./images/Magee_IMG_3654.jpg" width="353" height="302" />
+<p>
+
+</p>
+  <h3>Carolyn McGrail</h3>  
+  <img src="./images/CMcGrail.jpg" width="180" height="186" />
+<p>
+
+</p>
+	<h3>Sarah Minkyung Lee</h3>
+	<img src="./images/Sarah.png" width="192" height="144" />
+	<br><a href="https://academicworks.cuny.edu/bb_etds/84/">
+Honors Thesis: Examining the roles of genetic and environmental factors in Drosophila melanogaster hematopoiesis and innate immune system</a>
+	<br><a href="http://genestogenomes.org/undergrad-travel-award-winners-spring-2018/">Genetics Society of America Travel Award</a>
+
+<p>
+
+</p>
+      <h3>Ekaterina Migunova</h3>
+<p>
+
+</p>
+	<h3>Keerteshwrya Mishra</h3>
+<p>
+
+</p>
+    <h3>Stephanie Rene</h3>
+    <img src="./images/Stephanie.jpg" width="256" height="144" /> 
+<p>
+
+</p>
+      <h3>Marium Sarder</h3>
+    <img src="./images/Marium.jpg" width="256" height="144" /> 
+<p>
+  </p>
+      <h3>Brandon Schiro</h3>
+<p>
+
+</p>
+    <h3>Brian Tang</h3>
+    <a href= "https://academicworks.cuny.edu/bb_etds/77/">Honors Thesis: 
+Genetic Basis of Larval Crystal Cell Quantity Variation in the Drosophila Genetic Reference Panel (DGRP)</a>
+    <br><a href="http://genestogenomes.org/undergrad-travel-award-winners-spring-2018/">Genetics Society of America Travel Award</a>
+<p>
+
+</p>
+  <h3>Henry Wu</h3>
+  <img src="./images/Henry.jpg" width="200" height="200" />
+<p>
+  
+</p>
+    <h3>Emily Yeung</h3>
+    <img src="./images/Emily.jpg" width="256" height="144" /> 
+<p>
+
+
+</p>
+<p>
+
+</p>
+<p>
+
+</p>
+<p>
+
+</p>
+<p>
+
+</p>
+<p>
+
+</p>
+<p>
+</p>
+<p>
+
+</p>
+<p>
+
+</p>
+<p>
+</p>
+		
+
+		<div class="right">
+			<h2></h2>
+			<p> </p>
+		</div>
+		<hr class="clear" />
+		<p class="centered">Useful links: <a href="http://andreasviklund.com/templates/">More free website templates</a> | <a href="http://andreasviklund.com/wordpress-themes/">Themes for WordPress</a> | <a href="http://andreasviklund.com/templates/variant-duo/">Variant Duo template page</a></p>
+	</div>
+	<p class="footer">Copyright &copy; 2012 <a href="index.html">Rebecca Spokony</a><br />
+		Template design by <a href="http://andreasviklund.com/">Andreas Viklund</a><br />
+		</p>
+
+</div>
+</body>
+</html>
